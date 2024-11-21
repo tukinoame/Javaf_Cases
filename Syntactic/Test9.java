@@ -1,0 +1,1 @@
+class d{void func(){char a = '';}}

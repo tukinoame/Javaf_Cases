@@ -1,0 +1,7 @@
+package pk;
+
+class Clazz {
+    void method() {
+        int[] a = new int[];
+    }
+}

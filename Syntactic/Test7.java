@@ -1,0 +1,1 @@
+class b{void func(){if(=){int a=1;}}}
