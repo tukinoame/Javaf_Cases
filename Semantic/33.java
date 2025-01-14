@@ -1,3 +1,3 @@
 package pk;
 
-enum test{test(){super();}}
+enum test{test; public test(){ super(); } }
