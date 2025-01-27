@@ -1,3 +1,3 @@
 package pk;
 
-class test{void func(){int a=1; for(int b: a){}}}
+class test{void func(){ final int a = 1; a = 2; }}
