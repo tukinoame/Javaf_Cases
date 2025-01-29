@@ -1,4 +1,4 @@
 package pk;
 
-abstract class base<T>{  }
-class test{ void func() { base<String> a = new base<>() {} ;} }
+abstract class base<T, U extends String, S extends test>{  }
+class test{ void func() { new base<>() {} ;} }
